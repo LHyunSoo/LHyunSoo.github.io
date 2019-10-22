@@ -1,5 +1,26 @@
 ## Welcome to GitHub Pages
 
+```java
+System.out.println("현수야 안녕");
+```
+```html
+<div> Hello Hyunsoo </div>
+```
+
+* 목록1
+* 목록2
+
+- 목록1
+- 목록2
+
+| 학번 | 이름 |
+| ---- | ---- |
+| 2315 | 이현수 |
+
+[내 홈페이지](https://LHyunSoo.github.io)
+
+![현수 어릴적 사진](IMG_0704.JPG)
+
 You can use the [editor on GitHub](https://github.com/LHyunSoo/LHyunSoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
